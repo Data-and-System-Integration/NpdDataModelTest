@@ -44,6 +44,9 @@
       <org.kie.soup.project.datamodel.imports.Import>
         <type>com.myspace.npddatamodel.Employee</type>
       </org.kie.soup.project.datamodel.imports.Import>
+      <org.kie.soup.project.datamodel.imports.Import>
+        <type>com.myspace.npddatamodel.Department</type>
+      </org.kie.soup.project.datamodel.imports.Import>
     </imports>
   </imports>
   <packageName>com.test_space.npddatamodeltest</packageName>
